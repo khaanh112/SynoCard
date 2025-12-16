@@ -234,7 +234,8 @@ The frontend is deployed on Vercel at [https://synocard.vercel.app/](https://syn
 
 ### Backend (Local/Railway)
 Backend can be deployed to Railway or any Node.js hosting platform. Update the `BACKEND_URL` in frontend configuration.
-
+### Database (Neon)
+Postgresql is Deploy on Neon.
 ## 🤝 Contributing
 
 1. Create feature branch
